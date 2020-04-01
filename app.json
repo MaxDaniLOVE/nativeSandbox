@@ -1,0 +1,17 @@
+{
+  "name": "nativeSandbox",
+  "displayName": "nativeSandbox",
+  "expo": {
+    "name": "nativeSandbox",
+    "slug": "nativeSandbox",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
